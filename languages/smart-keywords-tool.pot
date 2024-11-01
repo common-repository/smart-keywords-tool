@@ -1,0 +1,362 @@
+# Copyright (C) 2021 WBOLT
+# This file is distributed under the same license as the WBOLT package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WBOLT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../plugins/smart-keywords-tool/settings.php:17, ../plugins/smart-keywords-tool/classes/admin.class.php:741
+msgid "Smart Keywords Tool"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:79
+msgid "There is a new version of "
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:79
+msgid " available"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:79
+msgid "View version "
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:79
+msgid "details"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:80
+msgid "or"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:80, ../plugins/smart-keywords-tool/settings.php:80
+msgid "Update now"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:88
+msgid "WBOLT"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:94
+msgid "View Site"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:98, ../plugins/smart-keywords-tool/settings.php:254
+msgid "Documentation"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:107
+msgid "Instant Keywords"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:110
+msgid "AI Tags"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:114
+msgid "Keyword Pickup"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:126
+msgid "Select a Search Engine"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:129, ../plugins/smart-keywords-tool/tpl/swt.tpl.php:19
+msgid "360"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:130, ../plugins/smart-keywords-tool/tpl/swt.tpl.php:20
+msgid "Bing"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:133, ../plugins/smart-keywords-tool/settings.php:140, ../plugins/smart-keywords-tool/tpl/swt.tpl.php:23, ../plugins/smart-keywords-tool/tpl/swt.tpl.php:29
+msgid "Google"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:134, ../plugins/smart-keywords-tool/settings.php:141, ../plugins/smart-keywords-tool/tpl/swt.tpl.php:24, ../plugins/smart-keywords-tool/tpl/swt.tpl.php:30
+msgid "Baidu"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:135, ../plugins/smart-keywords-tool/settings.php:142, ../plugins/smart-keywords-tool/tpl/swt.tpl.php:25, ../plugins/smart-keywords-tool/tpl/swt.tpl.php:31
+msgid "Taobao"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:136, ../plugins/smart-keywords-tool/settings.php:143, ../plugins/smart-keywords-tool/tpl/swt.tpl.php:26, ../plugins/smart-keywords-tool/tpl/swt.tpl.php:32
+msgid "E-commerce"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:147
+msgid "Tips: \"E-commerce\"-The best option for e-commerce websites, which will recommend keywords according to the client IP."
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:153
+msgid "Where to Use"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:155
+msgid "Apply to Title"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:156
+msgid "When enabled, it will recommend pop keywords according to title input."
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:159
+msgid "Apply to Tag"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:160
+msgid "When enabled, it will recommend pop keywords according to tag input."
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:167
+msgid "Default Suggested Tags"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:168
+msgid "When enabled, Suggested Tags incl WP&plugin recommendation."
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:174
+msgid "Gutenberg Setting"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:175
+msgid "By default, Gutenberg was Disabled to ensure that the plugin works normally. Do not Enabled Gutenberg."
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:191, ../plugins/smart-keywords-tool/settings.php:197
+msgid "Enable AI Tags"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:228
+msgid "Tips: The AI tags function enable with Baidu Application API. View"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:228
+msgid "How to configure Baidu Application API"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:248
+msgid "WBOLT.COM"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:249
+msgid "Ver:"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:252
+msgid "Free Plugins"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:253, ../plugins/smart-keywords-tool/classes/admin.class.php:720
+msgid "Support"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:255
+msgid "Terms Conditions"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:256
+msgid "Privacy Policy"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/settings.php:265
+msgid "SAVE CHANGES"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:161, ../plugins/smart-keywords-tool/classes/admin.class.php:220
+msgid "Generate tags"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:326
+msgid "Too little content to generate tags"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:353
+msgid "Illegal operation."
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:357
+msgid "No permission."
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:370, ../plugins/smart-keywords-tool/classes/admin.class.php:376
+msgid "Verification failed, please try again later"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:392
+msgid "Configuration error, contact for"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:394, ../plugins/smart-keywords-tool/classes/admin.class.php:408, ../plugins/smart-keywords-tool/classes/admin.class.php:414
+msgid "technical support"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:395, ../plugins/smart-keywords-tool/classes/admin.class.php:409, ../plugins/smart-keywords-tool/classes/admin.class.php:415
+msgid "error code"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:398
+msgid "Invalid key, please enter a correct key. (error code 200)"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:401
+msgid "Key usage out of limit. (error code 201)"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:406
+msgid "Verification server exception, contact for"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:412
+msgid "Unexpected error, contact for"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:420
+msgid "Verification failed, please try again later. (error code 004)"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:684
+msgid "Post title cannot be empty"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:685
+msgid "Post content cannot be empty"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:686
+msgid "Request failed"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:687
+msgid "No related tags"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:688
+msgid "Waiting to be generated..."
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:689
+msgid "Choose from AI tags"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:690
+msgid "Add all"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:718
+msgid "Plugin Site"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:719
+msgid "FAQ"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:730
+msgid "Setting"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:740
+msgid "Smart Keywords Tool Setting"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:779
+msgid "KEY"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:780, ../plugins/smart-keywords-tool/classes/admin.class.php:785
+msgid "Please enter a valid key"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:781
+msgid "PURCHASE"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:782
+msgid "Activate PRO"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:783
+msgid "SUBMIT"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:784
+msgid "CANCEL"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:786
+msgid "After binding a domain, it cannot be changed. Confirm binding to the domain:"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:787
+msgid "Binding info confirmation"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:788
+msgid "CONFIRM"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:789
+msgid "CLOSE"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:790
+msgid "Verification successful!"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:791
+msgid "Modification not submitted. Leave this page?"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:792
+msgid "Saved"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:793
+msgid "No results, try another keyword or switch to other search engines"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:794
+msgid "Please enter a keyword"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:795
+msgid "Copied"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:41
+msgid "SEARCH"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:50
+msgid "ID"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:51
+msgid "Similar keywords"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:52
+msgid "Search"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:81
+msgid "All"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:96
+msgid "COPY"
+msgstr ""
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:97
+msgid "CLEAR"
+msgstr ""

@@ -1,0 +1,409 @@
+# Copyright (C) 2021 WBOLT
+# This file is distributed under the same license as the WBOLT package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WBOLT\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ../plugins/smart-keywords-tool/settings.php:17,
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:740
+msgid "Smart Keywords Tool"
+msgstr "智能关键词"
+
+#: ../plugins/smart-keywords-tool/settings.php:79
+msgid "There is a new version of "
+msgstr "当前 "
+
+#: ../plugins/smart-keywords-tool/settings.php:79
+msgid " available"
+msgstr " 有新版本可用"
+
+#: ../plugins/smart-keywords-tool/settings.php:79
+msgid "View version "
+msgstr "查看版本 "
+
+#: ../plugins/smart-keywords-tool/settings.php:79
+msgid "details"
+msgstr "详情"
+
+#: ../plugins/smart-keywords-tool/settings.php:80
+msgid "or"
+msgstr "或"
+
+#: ../plugins/smart-keywords-tool/settings.php:80,
+#: ../plugins/smart-keywords-tool/settings.php:80
+msgid "Update now"
+msgstr "现在更新"
+
+#: ../plugins/smart-keywords-tool/settings.php:88
+msgid "WBOLT"
+msgstr "闪电博"
+
+#: ../plugins/smart-keywords-tool/settings.php:94
+msgid "View Site"
+msgstr "插件主页"
+
+#: ../plugins/smart-keywords-tool/settings.php:98,
+#: ../plugins/smart-keywords-tool/settings.php:254
+msgid "Documentation"
+msgstr "说明文档"
+
+#: ../plugins/smart-keywords-tool/settings.php:107
+msgid "Instant Keywords"
+msgstr "智能推荐"
+
+#: ../plugins/smart-keywords-tool/settings.php:110
+msgid "AI Tags"
+msgstr "智能标签"
+
+#: ../plugins/smart-keywords-tool/settings.php:114
+msgid "Keyword Pickup"
+msgstr "选词工具"
+
+#: ../plugins/smart-keywords-tool/settings.php:126
+msgid "Select a Search Engine"
+msgstr "选择关键词引擎"
+
+#: ../plugins/smart-keywords-tool/settings.php:129,
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:19
+msgid "360"
+msgstr "360搜索"
+
+#: ../plugins/smart-keywords-tool/settings.php:130,
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:20
+msgid "Bing"
+msgstr "必应"
+
+#: ../plugins/smart-keywords-tool/settings.php:133,
+#: ../plugins/smart-keywords-tool/settings.php:140,
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:23,
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:29
+msgid "Google"
+msgstr "谷歌"
+
+#: ../plugins/smart-keywords-tool/settings.php:134,
+#: ../plugins/smart-keywords-tool/settings.php:141,
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:24,
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:30
+msgid "Baidu"
+msgstr "百度"
+
+#: ../plugins/smart-keywords-tool/settings.php:135,
+#: ../plugins/smart-keywords-tool/settings.php:142,
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:25,
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:31
+msgid "Taobao"
+msgstr "淘宝"
+
+#: ../plugins/smart-keywords-tool/settings.php:136,
+#: ../plugins/smart-keywords-tool/settings.php:143,
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:26,
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:32
+msgid "E-commerce"
+msgstr "外贸"
+
+#: ../plugins/smart-keywords-tool/settings.php:147
+msgid ""
+"Tips: \"E-commerce\"-The best option for e-commerce websites, which will "
+"recommend keywords according to the client IP."
+msgstr ""
+"注：出口贸易独立站或者电商网站建议使用外贸关键词引擎，该引擎可以根据站长当前"
+"IP推荐所在国家/地区热门关键词。"
+
+#: ../plugins/smart-keywords-tool/settings.php:153
+msgid "Where to Use"
+msgstr "关键词推荐应用位置"
+
+#: ../plugins/smart-keywords-tool/settings.php:155
+msgid "Apply to Title"
+msgstr "应用到标题(Title)位置"
+
+#: ../plugins/smart-keywords-tool/settings.php:156
+msgid "When enabled, it will recommend pop keywords according to title input."
+msgstr ""
+"启用后将会在编辑文章或者页面标题时，根据用户输入推送搜索引擎热门关键词。"
+
+#: ../plugins/smart-keywords-tool/settings.php:159
+msgid "Apply to Tag"
+msgstr "应用到标签(Tag)位置"
+
+#: ../plugins/smart-keywords-tool/settings.php:160
+msgid "When enabled, it will recommend pop keywords according to tag input."
+msgstr "启用后将会在编辑文章Tag标签时，根据用户输入推送搜索引擎热门关键词。"
+
+#: ../plugins/smart-keywords-tool/settings.php:167
+msgid "Default Suggested Tags"
+msgstr "标签默认推荐"
+
+#: ../plugins/smart-keywords-tool/settings.php:168
+msgid "When enabled, Suggested Tags incl WP&plugin recommendation."
+msgstr "启用后，混合使用插件热门关键词及WP标签推荐结果。"
+
+#: ../plugins/smart-keywords-tool/settings.php:174
+msgid "Gutenberg Setting"
+msgstr "古腾堡Gutenberg 编辑器开关"
+
+#: ../plugins/smart-keywords-tool/settings.php:175
+msgid ""
+"By default, Gutenberg was Disabled to ensure that the plugin works normally. "
+"Do not Enabled Gutenberg."
+msgstr ""
+"对于老站长来说，新版的古腾堡编辑器只能说是个鸡肋，一般情况我们都建议关闭。同"
+"时本插件对古腾堡编辑器无效，因此新增此功能以方便站长快速关闭古腾堡编辑器而无"
+"需安装其他插件。"
+
+#: ../plugins/smart-keywords-tool/settings.php:191,
+#: ../plugins/smart-keywords-tool/settings.php:197
+msgid "Enable AI Tags"
+msgstr "启用智能标签功能"
+
+#: ../plugins/smart-keywords-tool/settings.php:228
+msgid "Tips: The AI tags function enable with Baidu Application API. View"
+msgstr ""
+"温馨提示: 智能标签功能依赖百度智能云应用API，内容篇幅过短不适宜使用智能标签。"
+"查看"
+
+#: ../plugins/smart-keywords-tool/settings.php:228
+msgid "How to configure Baidu Application API"
+msgstr "百度应用API申请及配置教程"
+
+#: ../plugins/smart-keywords-tool/settings.php:248
+msgid "WBOLT.COM"
+msgstr "闪电博"
+
+#: ../plugins/smart-keywords-tool/settings.php:249
+msgid "Ver:"
+msgstr "版本："
+
+#: ../plugins/smart-keywords-tool/settings.php:252
+msgid "Free Plugins"
+msgstr "免费插件"
+
+#: ../plugins/smart-keywords-tool/settings.php:253,
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:719
+msgid "Support"
+msgstr "反馈"
+
+#: ../plugins/smart-keywords-tool/settings.php:255
+msgid "Terms Conditions"
+msgstr "服务协议"
+
+#: ../plugins/smart-keywords-tool/settings.php:256
+msgid "Privacy Policy"
+msgstr "隐私条例"
+
+#: ../plugins/smart-keywords-tool/settings.php:265
+msgid "SAVE CHANGES"
+msgstr "保存设置"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:161,
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:220
+msgid "Generate tags"
+msgstr "生成智能标签"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:326
+msgid "Too little content to generate tags"
+msgstr "内容过少无法生成标签"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:353
+msgid "Illegal operation."
+msgstr "非法操作."
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:357
+msgid "No permission."
+msgstr "没有权限."
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:370,
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:376
+msgid "Verification failed, please try again later"
+msgstr "校验失败，请稍后再试"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:392
+msgid "Configuration error, contact for"
+msgstr "插件配置参数错误，联系"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:394,
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:408,
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:414
+msgid "technical support"
+msgstr "技术支持"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:395,
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:409,
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:415
+msgid "error code"
+msgstr "错误代码"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:398
+msgid "Invalid key, please enter a correct key. (error code 200)"
+msgstr "输入key无效，请输入正确key（错误代码200）"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:401
+msgid "Key usage out of limit. (error code 201)"
+msgstr "Key使用次数超出限制范围（错误代码201）"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:406
+msgid "Verification server exception, contact for"
+msgstr "校验服务器异常，联系"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:412
+msgid "Unexpected error, contact for"
+msgstr "发生异常错误，联系"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:420
+msgid "Verification failed, please try again later. (error code 004)"
+msgstr "校验失败，请稍后再试（错误代码004)"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:684
+msgid "Post title cannot be empty"
+msgstr "文章标题不能为空"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:685
+msgid "Post content cannot be empty"
+msgstr "文章内容不能为空"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:686
+msgid "Request failed"
+msgstr "API请求失败"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:687
+msgid "No related tags"
+msgstr "没有获取到相关标签"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:688
+msgid "Waiting to be generated..."
+msgstr "标签生成中..."
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:689
+msgid "Choose from AI tags"
+msgstr "从智能标签中选择"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:717
+msgid "Plugin Site"
+msgstr "插件主页"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:718
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:729
+msgid "Setting"
+msgstr "设置"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:739
+msgid "Smart Keywords Tool Setting"
+msgstr "热门关键词推荐插件设置"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:778
+msgid "KEY"
+msgstr "激活KEY"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:779,
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:784
+msgid "Please enter a valid key"
+msgstr "请输入激活码"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:780
+msgid "PURCHASE"
+msgstr "获取KEY"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:781
+msgid "Activate PRO"
+msgstr "激活Pro版本"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:782
+msgid "SUBMIT"
+msgstr "提交验证"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:783
+msgid "CANCEL"
+msgstr "取消"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:785
+msgid ""
+"After binding a domain, it cannot be changed. Confirm binding to the domain:"
+msgstr "绑定域名后将不可更改，确认绑定到域名："
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:786
+msgid "Binding info confirmation"
+msgstr "绑定信息确认"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:787
+msgid "CONFIRM"
+msgstr "确认"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:788
+msgid "CLOSE"
+msgstr "关闭"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:789
+msgid "Verification successful!"
+msgstr "验证成功!"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:790
+msgid "Modification not submitted. Leave this page?"
+msgstr "您修改的设置尚未保存，确定离开此页面吗？"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:791
+msgid "Saved"
+msgstr "已保存"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:792
+msgid "No results, try another keyword or switch to other search engines"
+msgstr "查询无结果，尝试换一个词或者切换其他搜索引擎"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:793
+msgid "Please enter a keyword"
+msgstr "输入关键词"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:794
+msgid "Copied"
+msgstr "已复制"
+
+#: ../plugins/smart-keywords-tool/classes/admin.class.php:795
+msgid "Add all"
+msgstr "+ 批量添加至标签"
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:41
+msgid "SEARCH"
+msgstr "SEARCH"
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:50
+msgid "ID"
+msgstr "ID"
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:51
+msgid "Similar keywords"
+msgstr "相似关键词"
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:52
+msgid "Search"
+msgstr "搜索"
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:81
+msgid "All"
+msgstr "所有"
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:96
+msgid "COPY"
+msgstr "复制"
+
+#: ../plugins/smart-keywords-tool/tpl/swt.tpl.php:97
+msgid "CLEAR"
+msgstr "清除"

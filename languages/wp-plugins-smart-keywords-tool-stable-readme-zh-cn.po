@@ -1,0 +1,305 @@
+# Translation of Plugins - Smart Keywords Tool - Stable Readme (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Smart Keywords Tool - Stable Readme (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Smart Keywords Tool - Stable Readme (latest release)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-07-14 17:22+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1\n"
+
+#. Short description.
+msgid "A plugin to help webmasters get popular keywords from Bing, Google and other search engines through API when editing post titles or tags."
+msgstr "智能关键词插件（Smart Keywords Tool）是一款基于搜索引擎的关键词数据库开发的智能关键推荐插件，支持文章标题及标签编写时实时推荐热门关键词及提供专业的关键词选词功能。"
+
+#. Plugin name.
+msgid "Smart Keywords Tool"
+msgstr "智能关键词插件"
+
+#. Found in description paragraph.
+msgid "You only need to select a search engine, enter a keyword to obtain similar keywords, or click on the obtained similar keywords to continue to query similar keywords. Choose what you need from the similar keywords found, copy it with one click."
+msgstr "插件加入全新的关键词选词工具，即支持站长选择插件支持的任意搜索引擎（含360搜索、必应、谷歌、百度、淘宝及外贸专用），输入一个关键词后，点击搜索即可获取与之相类似的热门关键词。并且还支持选中结果中的相似关键词继续搜索与之相似的词。然后，站长可以选中合适的关键词添加到备选框，最后点击复制即可将关键词粘贴到其他地方使用。"
+
+#. Found in description header.
+msgid "5.Keywords Pickup"
+msgstr "5.关键词选词"
+
+#. Found in faq paragraph.
+msgid "You can directly use Google's popular keyword library engine of Smart Keywords Tool without a proxy server."
+msgstr "无需代理服务器即可直接使用Smart Keywords Tool的谷歌热门关键词库引擎。"
+
+#. Found in faq paragraph.
+msgid "The free version of Smart Keywords Tool supports 360 and Bing search engine engines. The PRO version adds Baidu, Google, Taobao &amp; E-commerce on the basis of the free version."
+msgstr "Smart Keywords Tool免费版支持360搜索及Bing两个搜索引擎的热门关键词库引擎。PRO版在免费版的基础上增加百度、谷歌、淘宝和外贸专用四个热门关键词推荐引擎."
+
+#. Found in faq paragraph.
+msgid "True to its name, the E-commerce keyword recommendation engine is more suitable for e-commerce websites, which will recommend the hot keywords according to the client IP."
+msgstr "外贸专用热门关键词推荐引擎主要是针对外贸站长，可以根据外贸站长当前所在IP地址，推荐该IP地址所属国家地域的热门关键词。为了确保所推荐的关键词符合当地人的搜索习惯，建议外贸站长在使用外贸专用引擎时，尽可能将客户端IP切换至对应的国家或者地区。"
+
+#. Found in faq paragraph.
+msgid "Do NOT. You can use the plugin to disable the Gutenberg editor."
+msgstr "暂不兼容。你可以通过该插件的设置界面关闭古腾堡编辑器切换至传统编辑器来使用该插件。"
+
+#. Found in faq header.
+msgid "Is it possible to use Smart Keywords Tool (Pro version) Google's popular keyword library engine in China?"
+msgstr "国内是否可以使用Smart Keywords Tool（Pro版本）的谷歌热门关键词库引擎?"
+
+#. Found in faq header.
+msgid "What search engines does the Smart Keywords Tool support?"
+msgstr "智能关键词插件（Smart Keywords Tool）支持哪些搜索引擎？"
+
+#. Found in faq header.
+msgid "What is the difference between a E-commerce keyword recommendation engine and others?"
+msgstr "外贸专用关键词推荐引擎与其他有何区别？"
+
+#. Found in faq header.
+msgid "Is the plugin compatible with the Gutenberg editor?"
+msgstr "插件是否兼容古腾堡编辑器？"
+
+#. Found in installation paragraph.
+msgid "About this plugin, you can get more info via <a href=\"https://www.wbolt.com/skt-plugin-documentation.html?utm_source=wp&amp;utm_medium=link&amp;utm_campaign=skt\" rel=\"friend\" title=\"Plugin documentation\">Plugin documentation</a>。"
+msgstr "关于本插件，你可以通过阅读<a href=\"https://www.wbolt.com/skt-plugin-documentation.html?utm_source=wp&utm_medium=link&utm_campaign=skt\" rel=\"friend\" title=\"插件教程\">热门关键词推荐插件教程</a>学习了解插件安装、设置等详细内容。"
+
+#. Found in installation paragraph.
+msgid ""
+"Upload via dashboard\n"
+"1. Go to the WordPress dashboard and navigate to Plugins from the dashboard, click on <code>Add New</code>;\n"
+"2. Click on the <code>Upload</code> button at the top left of the interface, select the plugin compressed package <code>smart-keywords-tool.zip</code> has been downloaded to the local, and click <code>Install Now</code> and <code>Activate</code>;\n"
+"3. Then access <code>Settings</code> -&gt; <code>Smart Keywords Tool</code>, set plugin customization options.\n"
+"4. When you input a post/page title or tag, you will see similar popular keywords."
+msgstr ""
+"仪表盘上传安装\n"
+"1. 进入WordPress仪表盘，点击 <code>插件-安装插件 </code>；\n"
+"2. 点击界面左上方的 <code>上传按钮 </code>，选择本地提前下载好的插件压缩包 <code>smart-keywords-tool.zip </code>，点击 <code>现在安装 </code>然后 <code>立即启用 <、code>；\n"
+"3. 通过 <code>设置 </code> -&gt; <code>Smart Keywords Tool</code> 进入插件设置界面，依据个人需求设置插件.\n"
+"4. 在编辑文章标题及文章标签时，即可获得即时推荐热门关键词。"
+
+#. Found in installation paragraph.
+msgid ""
+"Upload via FTP\n"
+"1. Unzip the plugin compressed package <code>smart-keywords-tool.zip</code>, then upload the unzipped file/folder to the <code>/wp-content/plugins/</code> directory under the wordpress installation directory;\n"
+"2. Access the WordPress dashboard, click on \"Plugins\"-\"Installed Plugins\", find <code>Smart Keywords Tool</code> in the list of plugins, and click \"Activate\".\n"
+"3. Then access <code>Settings</code> -&gt; <code>Smart Keywords Tool</code>, set plugin customization options.\n"
+"4. When you input a post/page title or tag, you will see similar popular keywords."
+msgstr ""
+"FTP上传安装\n"
+"1. 解压插件压缩包<code>smart-keywords-tool.zip</code>，将解压获得文件夹上传至wordpress安装目录下的 <code>/wp-content/plugins/</code>目录.\n"
+"2. 访问WordPress仪表盘，进入<code>插件</code>-<code>已安装插件</code>，在插件列表中找到<code>Smart Keywords Tool</code>，点击<code>启用</code>.\n"
+"3. 通过<code>设置</code> -&gt; <code>Smart Keywords Tool</code>进入插件设置界面，依据个人需求设置插件.\n"
+"4. 在编辑文章标题及文章标签时，即可获得即时推荐热门关键词。"
+
+#. Found in installation paragraph.
+msgid "Method 2: Upload and install"
+msgstr "方式2：上传安装"
+
+#. Found in installation paragraph.
+msgid "Method 1: Online installation (recommended)"
+msgstr "方式1：在线安装(推荐)"
+
+#. Found in installation list item.
+msgid "When you input a post/page title or tag, you will see similar popular keywords."
+msgstr "在编辑文章标题及文章标签时，即可获得即时推荐热门关键词。"
+
+#. Found in installation list item.
+msgid "Then access <code>Settings</code> -&gt; <code>Smart Keywords Tool</code>, set plugin customization options."
+msgstr "通过<code>设置</code> -&gt; <code>Smart Keywords Tool</code>进入插件设置界面，依据个人需求设置插件."
+
+#. Found in installation list item.
+msgid "After the installation is complete, Activate the <code>Smart Keywords Tool</code> plugin."
+msgstr "安装完毕后，启用 <code>Smart Keywords Tool</code>插件."
+
+#. Found in installation list item.
+msgid "Access WordPress dashboard, navigate to Plugins from the dashboard, click on <code>Add New</code>, enter <code>Smart Keywords Tool</code> and search, find the <code>Smart Keywords Tool</code> plugin in the results, and click <code>Install Now</code>;"
+msgstr "进入WordPress仪表盘，点击<code>插件-安装插件</code>，关键词搜索<code>Smart Keywords Tool</code>，找搜索结果中找到<code>Smart Keywords Tool</code>插件，点击<code>现在安装</code>;"
+
+#. Found in description paragraph.
+msgid "WBOLT&gt;COM"
+msgstr "闪电博团队"
+
+#. Found in description paragraph.
+msgid "THX！"
+msgstr "致谢！"
+
+#. Found in description paragraph.
+msgid "If you have more requirements on WordPress Themes and plugins, you can send us your opinions and suggestions. We will record them and develop more themes and plugins."
+msgstr "如果你在WordPress主题和插件上有更多的需求，也希望您可以向我们提出意见建议，我们将会记录下来并根据实际情况，推出更多符合大家需求的主题和插件。"
+
+#. Found in description paragraph.
+msgid "In addition to Smart Keywords Tool, we have also developed the following plugins for WordPress:"
+msgstr "除了Smart Keywords Tool插件外，目前我们还开发了以下WordPress插件："
+
+#. Found in description paragraph.
+msgid "（<a href=\"https://www.wbolt.com/?utm_source=wp&amp;utm_medium=link&amp;utm_campaign=skt\" rel=\"friend\" title=\"WBOLT.COM\">WBOLT.COM</a>）focus on the development of WordPress themes and plugins. In addition, we will also share WordPress related tips and tutorials."
+msgstr "闪电博（<a href=\"https://www.wbolt.com/?utm_source=wp&utm_medium=link&utm_campaign=skt\" rel=\"friend\" title=\"闪电博官网\">wbolt.com</a>）专注于WordPress主题和插件开发,为中文博客提供更多优质和符合国内需求的主题和插件。此外我们也会分享WordPress相关技巧和教程。"
+
+#. Found in description paragraph.
+msgid "<a href=\"https://www.wbolt.com/plugins/skt?utm_source=wp&amp;utm_medium=link&amp;utm_campaign=skt\" rel=\"friend\" title=\"Smart Keywords Tool\">Smart Keywords Tool</a> is a real-time keyword recommendation plugin, keyword data via baidu, bing, 360, google and other search engines."
+msgstr "<a href=\"https://www.wbolt.com/plugins/skt?utm_source=wp&utm_medium=link&utm_campaign=skt\" rel=\"friend\" title=\"热门关键词推荐插件\">热门关键词推荐插件</a>是目前WordPress插件市场甚至全网首创的搜索引擎热门关键词库实时推送插件。通过我们的关键词库服务器同步谷歌、百度、Bing和360搜索引擎热门关键词库，在站长编辑文章标题和标签时，基于键入内容实时推送搜索引擎热门关键词，方便站长实现热门关键词布局，提升网站内容质量。"
+
+#. Found in description paragraph.
+msgid ""
+"The main purpose of this plugin is to help webmasters no longer waste time collecting and sorting out popular keywords. \n"
+"When editing title and tag, we can obtain popular keywords from Google, Baidu, Taobao, Bing or 360 search engines in real time, write high-quality, Human-Friendly &amp; SEO-Friendly post contents."
+msgstr "该插件的主要目的在于，帮助站长省掉搜集整理搜索引擎热门关键词的工作，实现在编辑文章标题及标签时实时获取谷歌、百度、淘宝、Bing或360搜索引擎热门关键词库资源，撰写高质量受搜索引擎及用户欢迎的文章内容，提高网站内容质量度。"
+
+#. Found in description paragraph.
+msgid "By default, Gutenberg was Disabled to ensure that the plugin works normally. Do not Enabled Gutenberg."
+msgstr "对于老站长来说，新版的古腾堡编辑器只能说是个鸡肋，一般情况我们都建议关闭。同时本插件对古腾堡编辑器无效，因此新增此功能以方便站长快速关闭古腾堡编辑器而无需安装其他插件。"
+
+#. Found in description paragraph.
+msgid "Disable WordPress tag default recommendation, or use both."
+msgstr "支持站长关闭WordPress标签自带的推荐功能，仅使用插件的搜索引擎热门关键词推荐功能。"
+
+#. Found in description paragraph.
+msgid "You can use search engine recommended keywords for title&amp;tag input."
+msgstr "支持选择搜索引擎推荐关键词应用位置：文章标题及文章标签."
+
+#. Found in description paragraph.
+msgid "Support 360, Bing, Google(Pro), Baidu(Pro), Taobao(Pro) and E-commerce popular keyword engines;"
+msgstr "支持360搜索、Bing、谷歌（Pro）、百度（Pro）、淘宝（Pro）和外贸专用六种关键词引擎，支持站长选择其中一个关键词引擎启用;"
+
+#. Found in description paragraph.
+msgid "Features："
+msgstr "功能包括："
+
+#. Found in description paragraph.
+msgid "A plugin to help webmasters get popular keywords from Bing, Google and other search engines through API when editing post titles or tags. It is good for website search engine optimization."
+msgstr "热门关键词推荐插件（Smart Keywords Tool）是一款基于谷歌、百度、淘宝、Bing、360搜索和外贸专用六个搜索引擎的关键词数据库开发的智能关键推荐插件，实现编辑文章标题和标签时，根据编辑输入实时推送搜索引擎推荐的热门关键词，帮助站长快速布局文章热门关键词，提升网站内容质量及制作搜索引擎热门内容。"
+
+#. Found in description list item.
+msgid "More themes and plugins, visit <a href=\"https://www.wbolt.com/?utm_source=wp&amp;utm_medium=link&amp;utm_campaign=bsl\" rel=\"friend\" title=\"WBOLT.COM\">wbolt.com</a>!"
+msgstr "更多主题和插件，请访问<a href=\"https://www.wbolt.com/?utm_source=wp&utm_medium=link&utm_campaign=bsl\" rel=\"friend\" title=\"闪电博官网\">wbolt.com</a>!"
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/donate-with-qrcode/\">Donate with Qrcode</a>"
+msgstr "<a href=\"https://wordpress.org/plugins/donate-with-qrcode/\">社交分享组件</a>"
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/download-info-page/\">Download info page</a>"
+msgstr "<a href=\"https://wordpress.org/plugins/download-info-page/\">WP资源下载管理</a>"
+
+#. Found in description list item.
+msgid "<strong>Other E-commerce Site</strong>-You can choose E-commerce popular keywords recommendation engine, which will recommend the hot keywords according to the client IP."
+msgstr "<strong>外贸站长</strong>-建议使用外贸专用热门关键词接口，该接口可以根据站长当前IP推送IP所在区域最热门的相关关键词，这有利于外贸客户依据不同的国家地域，做个性化关键词布局。"
+
+#. Found in description list item.
+msgid "<strong>Alimama Site</strong>-You can choose Taobao popular keyword recommendation engine;"
+msgstr "<strong>淘宝客站长</strong>-可以尝试使用淘宝热门关键词推荐接口，方便淘宝客站长快速获取到淘宝的热门关键词数据，在文章标题及文章关键词快速布局商品关键词，以达到关键词更符合天猫和淘宝的购买用户搜索行为;"
+
+#. Found in description list item.
+msgid "<strong>General Site</strong>-You can choose any popular keyword recommendation engine from 360, Bing, Baidu and Google;"
+msgstr "<strong>国内站长</strong>-建议采用360搜索、Bing和百度其中一种热门关键词推荐接口即可，当然在国内百度搜索引擎占主要市场份额，使用百度热门关键词推荐接口效果最佳;"
+
+#. Found in description header.
+msgid "4.Disable Gutenberg"
+msgstr "4.默认关闭古腾堡编辑器"
+
+#. Found in description header.
+msgid "3.Disable WordPress tag default recommendation"
+msgstr "3.关闭WordPress标签默认推荐功能"
+
+#. Found in description header.
+msgid "2.Where to use"
+msgstr "2.关键词推荐位置"
+
+#. Found in description header.
+msgid "1.Popular keyword recommendation engine"
+msgstr "1.热门关键词推荐引擎"
+
+#. Screenshot description.
+msgid "Portuguese site popular keyword recommendation example."
+msgstr "外贸专用之葡萄牙语站热门关键词推荐示例."
+
+#. Screenshot description.
+msgid "English site popular keyword recommendation example."
+msgstr "外贸专用之英文站热门关键词推荐示例."
+
+#. Screenshot description.
+msgid "Tag Input Keyword Recommendation screenshot."
+msgstr "编辑文章标签时关键词实时推荐截图."
+
+#. Screenshot description.
+msgid "Title Input Keyword Recommendation screenshot."
+msgstr "编辑文章标题时关键词实时推荐截图."
+
+#. Screenshot description.
+msgid "Plugin Setting Screenshot."
+msgstr "插件设置界面截图."
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/smart-keywords-tool/\">Smart Keywords Tool</a>"
+msgstr "<a href=\"https://wordpress.org/plugins/smart-keywords-tool/\">智能关键词推荐插件</a>"
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/imgspider/\">IMGspider</a>"
+msgstr "<a href=\"https://wordpress.org/plugins/imgspider/\">图片采集插件</a>"
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/smart-seo-tool/\">Smart SEO Tool</a>"
+msgstr "<a href=\"https://wordpress.org/plugins/smart-seo-tool/\">智能SEO插件</a>"
+
+#. Found in description header.
+msgid "Notes"
+msgstr "Notes"
+
+#. Found in changelog list item.
+msgid "Fix style.css"
+msgstr "修复CSS样式问题"
+
+#. Found in changelog list item.
+msgid "Add 360, Bing pop keyword engine recommended features"
+msgstr "新增360搜索、Bing搜索引擎热门关键词同步功能"
+
+#. Found in changelog list item.
+msgid "Add WordPress default tag recommendation disable option"
+msgstr "新增关闭WordPress默认标签推荐功能"
+
+#. Found in changelog list item.
+msgid "Add \"where to use\" pop keywords option"
+msgstr "新增热门关键词推送应用位置选项功能"
+
+#. Found in changelog list item.
+msgid "Add 360, Bing pop keyword engine"
+msgstr "新增360搜索、Bing搜索引擎热门关键词引擎"
+
+#. Found in changelog list item.
+msgid "Fix some bugs"
+msgstr "修正已知bug"
+
+#. Found in changelog list item.
+msgid "Add Gutenberg disable option"
+msgstr "增加古腾堡编辑器开关功能"
+
+#. Found in changelog list item.
+msgid "Add Taobao Search Keyword engine"
+msgstr "新增淘宝搜索关键词引擎"
+
+#. Found in changelog list item.
+msgid "Fix Pro version change domain unable to verify bug"
+msgstr "新增域名更换验证机制，解决Pro版本更换域名无法验证bug"
+
+#. Found in changelog list item.
+msgid "Fix abnormal state bug"
+msgstr "解决Pro版本状态异常bug"
+
+#. Found in changelog list item.
+msgid "Fix purchase link error"
+msgstr "修正Pro版本获取Key链接错误问题"
+
+#. Found in changelog list item.
+msgid "Add E-commerce keywords engine, which will recommend the hot keywords according to the client IP."
+msgstr "新增外贸专用热门关键词接口，可根据客户端IP地址搜索不同国家地区的热门关键词。"
+
+#. Found in changelog list item.
+msgid "Add English language."
+msgstr "新增英文语言。"
+
+#. Found in changelog list item.
+msgid "Add keywords pick-up features."
+msgstr "新增关键词选词功能。"
